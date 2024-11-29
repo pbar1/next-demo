@@ -35,3 +35,4 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 ## Issues
 
 - `yarn dev` fails to build the Next site. Using `npm` instead.
+- Next does not yet support ESLint flat config, and using the compat both only shims in the old file, and makes `next-lint` not work.
