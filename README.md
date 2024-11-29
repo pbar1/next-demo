@@ -31,3 +31,7 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 | README.md          | -                                 |
 | tailwind.config.ts | Tailwind CSS config               |
 | tsconfig.json      | TypeScript config                 |
+
+## Issues
+
+- `yarn dev` fails to build the Next site. Using `npm` instead.
