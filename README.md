@@ -36,3 +36,14 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 - `yarn dev` fails to build the Next site. Using `npm` instead.
 - Next does not yet support ESLint flat config, and using the compat both only shims in the old file, and makes `next-lint` not work.
+
+## Tasks
+
+- [x] Prettier formatting
+- [ ] Navbar
+  - Shadcn has a nice navbar with theme picker
+- [ ] MDX
+- [ ] Portfolio page (homepage)
+- [ ] Blog pages
+- [ ] Sitemap
+- [ ] Light/dark mode
