@@ -41,7 +41,7 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 - [x] Prettier formatting
 - [ ] Navbar
-  - Shadcn has a nice navbar with theme picker
+  - Shadcn's actual site (not component inventory) has a nice navbar with theme picker
 - [ ] MDX
 - [ ] Portfolio page (homepage)
 - [ ] Blog pages
